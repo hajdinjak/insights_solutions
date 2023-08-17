@@ -1,0 +1,11 @@
+MEDICATION_GROUP_1	MEDICATION_GROUP_2	ACTIVE_INGREDIENT_1	ACTIVE_INGREDIENT_2	count	days_between	active_ingredient_concat	active_ingredient_concat_avg_days
+Highly-active	Highly-active	Ofatumumab	Cladribin	1	203.0	Ofatumumab->Cladribin	Ofatumumab->Cladribin=203.0 days
+Highly-active	Highly-active	Natalizumab	Ocrelizumab	55	402.4727272727273	Natalizumab->Ocrelizumab	Natalizumab->Ocrelizumab=402.4727272727273 days
+Mild/Moderate	Mild/Moderate	Diroximelfumarat	Glatirameracetat	9	73.33333333333333	Diroximelfumarat->Glatirameracetat	Diroximelfumarat->Glatirameracetat=73.33333333333333 days
+Mild/Moderate	Mild/Moderate	Diroximelfumarat	Teriflunomid	3	139.0	Diroximelfumarat->Teriflunomid	Diroximelfumarat->Teriflunomid=139.0 days
+Mild/Moderate	Mild/Moderate	Interferon beta-1a	Glatirameracetat	51	220.98039215686273	Interferon beta-1a->Glatirameracetat	Interferon beta-1a->Glatirameracetat=220.98039215686273 days
+Highly-active	Mild/Moderate	Fingolimod	Peginterferon beta-1a	3	549.6666666666666	Fingolimod->Peginterferon beta-1a	Fingolimod->Peginterferon beta-1a=549.6666666666666 days
+Mild/Moderate	Highly-active	Interferon beta-1a	Fingolimod	25	403.16	Interferon beta-1a->Fingolimod	Interferon beta-1a->Fingolimod=403.16 days
+Highly-active	Highly-active	Fingolimod	Cladribin	25	420.84	Fingolimod->Cladribin	Fingolimod->Cladribin=420.84 days
+Highly-active	Mild/Moderate	Natalizumab	Diroximelfumarat	3	477.0	Natalizumab->Diroximelfumarat	Natalizumab->Diroximelfumarat=477.0 days
+Mild/Moderate	Highly-active	Interferon beta-1a	Siponimod	12	378.0	Interferon beta-1a->Siponimod	Interferon beta-1a->Siponimod=378.0 days
